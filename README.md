@@ -88,6 +88,8 @@ Procedimientos (Entregables)
 >>*   En caso de desacuerdos o conflictos, el grupo deberá referirse al Acta de Colaboración para resolver la situación mediante los mecanismos previamente acordados. Si no se llega a una resolución, se consultará con el del curso para mediación.
 >* **##2.Vinculos academicos y  descripción.**
 >>* Soy Marlon Atehortua, curso el programa de Ingeniería Industrial, la habilidad principal mia es la capacidad de liderazgo y la fortaleza es que me adapto a las circunstancias para poder lograr los objtevios propuestos.
+>>* Soy Daneil Salinas, curso el programa de Ingeniería Industrial, soy una persona honesta, líder con capacidad de trabajar muy fácil en grupo me desenvuelvo muy fácil hacia los retos nuevos que me pongan y sé trabajar bajo presión si ningún problema.
+>>* 
 ## **3.	Nombre del proyecto y detalles**
 
  El nombre del programa es la cueva del auto, trata sobre el desarrollo de un software donde permitirá registrar usuarios, controlar entradas y salidas de vehículos,
@@ -116,9 +118,10 @@ Este programa está diseñado para gestionar el parqueadero la cueva del auto, u
 * Mejora en la atención al usuario.
 * Facilidad para generar informes y estadísticas.
 ## **6.  Especificacion de requisitos**
-Base para futuras mejoras o integración con sistemas más avanzados.
+
 *   Los requisitos funcionales definen las acciones específicas, comportamientos, y operaciones que el software debe ejecutar para satisfacer las necesidades del usuario final.
 *   Los requisitos no funcionales especifican criterios que pueden usarse para juzgar la operación del sistema, más allá de los comportamientos específicos. Esto incluye aspectos como el rendimiento, seguridad, usabilidad, fiabilidad, y compatibilidad.
+  
 ### **Requisitos Funcionales**:
 1. Registro de usuarios:
    - El sistema debe permitir registrar los datos de los usuarios que ingresan al parqueadero.
