@@ -48,7 +48,8 @@
 </div>
 
 <br>
-# **Descripción del problema a solucionar -parqueadero(La cueva del auto)** 
+# * Descripción del problema a solucionar -parqueadero la cueva del auto** 
+
 El parqueadero la cueva del auto es un espacio que presta su servicio a vehículos del sector de la Universidad de Antioquia. Este solo permite el
 ingreso de automóviles, el ingreso de motos no es aceptado. 
 El parqueadero la cueva del auto cuenta con tres personas que trabajan turnos de 6 horas para atender a los usuarios que ingresan a usar el servicio y no presentar interrupciones ni contratiempos en el horario de 6:00 a.m. a 12:00 p.m. en jornada continua. El programa debe registrar usuarios,
